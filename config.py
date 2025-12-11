@@ -1,1 +1,2 @@
-
+TOKEN = 'xxx'
+DATABASE = ''
